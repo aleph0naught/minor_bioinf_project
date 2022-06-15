@@ -15,7 +15,7 @@ Nitrosopumilus oxyclinae       |       1585110 |            1899 | 0.90716
 Nitrosopumilus piranensis      |       1713078 |            2131 | 0.89619
 
 
-**z-score >= 200** (взял 200, потому что иначе не выходило выделить кластер)
+**z-score >= 100** (взял 100, потому что иначе не выходило выделить кластера)
 
 | Organism                       | Z-DNA regs count | Z-DNA summ length 
 ---------------------------------|------------------|-----------------
@@ -31,3 +31,11 @@ Nitrosopumilus cobalaminigenes: 86
 Nitrosopumilus maritimus SCM1: 120       
 Nitrosopumilus oxyclinae: 90       
 Nitrosopumilus piranensis: 115       
+
+
+С промотерами пересекается 10-20% участков Z-DNA
+
+Визуализация пересечений:
+
+
+
