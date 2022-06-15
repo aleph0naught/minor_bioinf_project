@@ -25,3 +25,9 @@ Nitrosopumilus piranensis      |       1713078 |            2131 | 0.89619
 | Nitrosopumilus oxyclinae       |           749    |        7108
 | Nitrosopumilus piranensis      |           902    |        8454
 
+*Intersectons with promoters**
+Nitrosopumilus adriaticus: 117 
+Nitrosopumilus cobalaminigenes: 86 
+Nitrosopumilus maritimus SCM1: 120 
+Nitrosopumilus oxyclinae: 90 
+Nitrosopumilus piranensis: 115 
