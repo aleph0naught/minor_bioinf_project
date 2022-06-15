@@ -4,6 +4,8 @@
 
 ---
 
+**Анализ аннотированных генов**
+
 Organism                       | Genome length | Annotated genes | Coverage    
 -------------------------------|---------------|-----------------|------------
 Nitrosopumilus adriaticus      |       1803090 |            2197 | 0.89592
@@ -12,6 +14,8 @@ Nitrosopumilus maritimus SCM1  |       1645259 |            1955 | 0.92018
 Nitrosopumilus oxyclinae       |       1585110 |            1899 | 0.90716
 Nitrosopumilus piranensis      |       1713078 |            2131 | 0.89619
 
+
+**z-score >= 200**
 
 | Organism                       | Z-DNA regs count | Z-DNA summ length 
 ---------------------------------|------------------|-----------------
