@@ -4,7 +4,7 @@
 
 
 Organism                       | Genome length | Annotated genes | Coverage
-------------------------------------------------------------------------------
+-------------------------------|---------------|-----------------|------------
 Nitrosopumilus adriaticus      |       1803090 |            2197 | 0.89592
 Nitrosopumilus cobalaminigenes |       1563356 |            1916 | 0.90715
 Nitrosopumilus maritimus SCM1  |       1645259 |            1955 | 0.92018
