@@ -1,8 +1,11 @@
 # HSE minor bioinf project 2022
 
+Ссылка на колаб с кодом
 [Colab](https://colab.research.google.com/drive/1m391t_fbMH2fYvIQoTmK5WLOfU7m9yMi?usp=sharing)
 
 ---
+
+# Основная часть
 
 ## Z-DNA и аннотированные гены
 
