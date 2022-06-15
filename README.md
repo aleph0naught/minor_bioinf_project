@@ -1,6 +1,6 @@
 # HSE minor bioinf project 2022
 
-[Colab]()
+[Colab](https://colab.research.google.com/drive/1m391t_fbMH2fYvIQoTmK5WLOfU7m9yMi?usp=sharing)
 
 ---
 
@@ -15,7 +15,7 @@ Nitrosopumilus oxyclinae       |       1585110 |            1899 | 0.90716
 Nitrosopumilus piranensis      |       1713078 |            2131 | 0.89619
 
 
-**z-score >= 200**
+**z-score >= 200** (взял 200, потому что иначе не выходило выделить кластер)
 
 | Organism                       | Z-DNA regs count | Z-DNA summ length 
 ---------------------------------|------------------|-----------------
