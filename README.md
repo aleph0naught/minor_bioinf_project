@@ -53,5 +53,10 @@ Z-ДНК и гомологичные гены
 Всего кластеров: 1417
 ![](imgs/classters.png)
 
+Выбранные кластеры 
+![](imgs/claster_1.png)
+![](imgs/claster_2.png)
+
+
 
 
