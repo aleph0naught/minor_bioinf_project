@@ -4,7 +4,7 @@
 
 ---
 
-Organism                       | Genome length | Annotated genes | Coverage
+Organism                       | Genome length | Annotated genes | Coverage    
 -------------------------------|---------------|-----------------|------------
 Nitrosopumilus adriaticus      |       1803090 |            2197 | 0.89592
 Nitrosopumilus cobalaminigenes |       1563356 |            1916 | 0.90715
@@ -13,7 +13,7 @@ Nitrosopumilus oxyclinae       |       1585110 |            1899 | 0.90716
 Nitrosopumilus piranensis      |       1713078 |            2131 | 0.89619
 
 
-| Organism name                  | Z-DNA regs count | Z-DNA summ length 
+| Organism                       | Z-DNA regs count | Z-DNA summ length 
 ---------------------------------|------------------|-----------------
 | Nitrosopumilus adriaticus      |           900    |        8434
 | Nitrosopumilus cobalaminigenes |           681    |        6574
