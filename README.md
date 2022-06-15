@@ -35,11 +35,15 @@ Nitrosopumilus piranensis: 115
 
 С промотерами пересекается 10-20% участков Z-DNA
 
-Визуализация пересечений:
+**Визуализация пересечений:**
 
 ![](imgs/org_1.png)
 ![](imgs/org_2.png)
 ![](imgs/org_3.png)
 ![](imgs/org_4.png)
 ![](imgs/org_5.png)
+
+
+**Гистограммы значений z-score для выбранных геномов**
+![](imgs/z-score.png)
 
