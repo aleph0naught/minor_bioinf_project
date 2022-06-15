@@ -54,8 +54,8 @@ Z-ДНК и гомологичные гены
 ![](imgs/classters.png)
 
 Выбранные кластеры 
-![](imgs/claster_1.png)
-![](imgs/claster_2.png)
+![](imgs/cluster_1.png)
+![](imgs/cluster_1.png)
 
 
 
