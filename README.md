@@ -37,5 +37,9 @@ Nitrosopumilus piranensis: 115
 
 Визуализация пересечений:
 
-
+![](imgs/org_1.png)
+![](imgs/org_2.png)
+![](imgs/org_3.png)
+![](imgs/org_4.png)
+![](imgs/org_5.png)
 
