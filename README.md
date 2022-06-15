@@ -17,13 +17,13 @@ Nitrosopumilus piranensis      |       1713078 |            2131 | 0.89619
 
 **z-score >= 100** (взял 100, потому что иначе не выходило выделить кластера)
 
-| Organism                       | Z-DNA regs count | Z-DNA summ length 
----------------------------------|------------------|-----------------
-| Nitrosopumilus adriaticus      |           900    |        8434
-| Nitrosopumilus cobalaminigenes |           681    |        6574
-| Nitrosopumilus maritimus SCM1  |           861    |        8148
-| Nitrosopumilus oxyclinae       |           749    |        7108
-| Nitrosopumilus piranensis      |           902    |        8454
+| Organism                       | Z-DNA regs count  | Z-DNA summ length 
+---------------------------------|-------------------|-----------------
+| Nitrosopumilus adriaticus      |           2128    |        21152
+| Nitrosopumilus cobalaminigenes |           1473    |        15006
+| Nitrosopumilus maritimus SCM1  |           2025    |        20378
+| Nitrosopumilus oxyclinae       |           1664    |        16672
+| Nitrosopumilus piranensis      |           2130    |        21196
 
 **Intersectons with promoters**      
 Nitrosopumilus adriaticus: 117       
